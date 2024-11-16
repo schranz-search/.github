@@ -12,7 +12,7 @@
 
 ## New Home
 
-The Schranz Search Project better known as **SEAL (Search Engine Abstraction Layer)** was moved to the new [PHP CMS-IG Organisation](https://github.com/PHP-CMSIG/) as a cooperation between different Content Management Systems.
+The Schranz Search Project better known as **SEAL (Search Engine Abstraction Layer)** was moved to the new [PHP CMS-IG Organisation](https://github.com/PHP-CMSIG/search) as a cooperation between different Content Management Systems.
 
 ## Migration
 
