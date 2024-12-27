@@ -16,7 +16,7 @@ The Schranz Search Project better known as **SEAL (Search Engine Abstraction Lay
 
 ## Migration
 
-To upgrade use search and replace also have a look at the .examples changes to better understand the upgrade.
+To upgrade use search and replace also have a look at the [.examples changes](https://github.com/PHP-CMSIG/search/compare/0.5.0...0.6) to better understand the upgrade.
 
  - Package names:
     - `schranz-search/seal` -> `cmsig/seal`
