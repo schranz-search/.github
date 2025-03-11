@@ -1,6 +1,6 @@
 <div align="center">
 
-# SEAL <br/> The Search Engine Abstraction Layer <br/> was moved
+# SEAL <br/> The Search Engine Abstraction Layer <br/> was moved ([click here](https://github.com/PHP-CMSIG/search))
 
 </div>
 
